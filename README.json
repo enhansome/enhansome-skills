@@ -1,50 +1,10 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Quick Start"
-    },
-    {
-      "description": "You need an Aliyun Model Studio API Key to run any skill that calls commands.\n👉 Get your free API Key",
-      "items": [],
-      "title": "Prerequisites"
-    },
-    {
-      "description": "When prompted, select the skills you want to install, then press Enter to confirm.",
-      "items": [],
-      "title": "Manual Install"
-    },
-    {
-      "description": "Paste the following into your AI Agent:",
-      "items": [],
-      "title": "Install via Your Agent (Recommended)"
-    },
-    {
-      "description": "These skills ship with this repository and are maintained by the ModelStudio team. Install , then let your Agent activate them as needed (unlike the community index in the next section).",
-      "items": [],
-      "title": "First-party skills in this repo"
-    },
-    {
-      "description": "The table below is an index of curated community projects verified by the Bailian team. Use the example prompts with your Agent, or install individually. The section above lists first-party skills bundled in this repository.",
-      "items": [],
-      "title": "Aliyun Bailian Curated Skills"
-    },
-    {
-      "description": "This repository's code is released under the Apache-2.0 license.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Step-by-step setup, hands-on walkthroughs, and end-to-end examples are on our docs site:\nmodelstudioai.github.io/guide/\nMaintained by the Aliyun Bailian team. We respect the copyrights and licenses of each Skill's upstream author; all references retain the original License and Attribution. If you find any content infringing or inappropriate, please file an Issue to contact us.",
-      "items": [],
-      "title": "📖 Full Tutorial"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T17:19:46.433Z",
+    "last_updated": "2026-08-19T12:53:01.536Z",
     "original_repository": "modelstudioai/skills",
-    "original_repository_sha": "f14c6989300e60b3e0c75c3aa43cf64a7f726484",
+    "original_repository_id": 1246690056,
+    "original_repository_sha": "9f1c827a1b8f0c5a18f5db71f895283379e97349",
     "enhanced_repository": "enhansome/enhansome-skills",
     "enhanced_repository_description": null,
     "title": "Awesome skills with stars"
