@@ -1,10 +1,392 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The table below is an index of curated community projects verified by the Bailian team. Use the example prompts with your Agent, or install individually. The section above lists first-party skills bundled in this repository.\nSee for detailed descriptions and category overviews.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "skill-creator Write me a Claude Code skill that analyzes why pet videos go viral on Xiaohongshu anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "find-skills Find me a skill for making PPTs vercel-labs/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134543109,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T20:28:34Z",
+            "owner": "vercel-labs",
+            "repo": "skills",
+            "stars": 29568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "skills-mcp Find me the latest AI skills skills-mcp/skills-mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079058877,
+            "language": "TypeScript",
+            "last_commit": "2025-10-20T07:53:28Z",
+            "owner": "skills-mcp",
+            "repo": "skills-mcp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "skill-atlas Run a competitive analysis between iPhone and Xiaomi phones GPTtang/skill-atlas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1181707412,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T14:29:02Z",
+            "owner": "GPTtang",
+            "repo": "skill-atlas",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "skills_repository Find me a skill for project planning diao10/skills_repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1205637557,
+            "language": null,
+            "last_commit": "2026-04-09T10:16:33Z",
+            "owner": "diao10",
+            "repo": "skills_repository",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "shaoqi-marketplace Do market analysis and pricing strategy for ergonomic chairs ceoniuer/shaoqi-marketplace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178203209,
+            "language": null,
+            "last_commit": "2026-03-10T19:46:50Z",
+            "owner": "ceoniuer",
+            "repo": "shaoqi-marketplace",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "servasyy_skills Write and lay out a WeChat article for our school anniversary huangserva/servasyy_skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150291804,
+            "language": "Python",
+            "last_commit": "2026-02-05T05:43:17Z",
+            "owner": "huangserva",
+            "repo": "servasyy_skills",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "AI-Vibe-Writing-Skills Rewrite this copy to remove the AI feel donghuixin/AI-Vibe-Writing-Skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160486723,
+            "language": "Python",
+            "last_commit": "2026-06-02T12:54:37Z",
+            "owner": "donghuixin",
+            "repo": "AI-Vibe-Writing-Skills",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "marketing-writer Write marketing copy for the Laifen hair dryer gushuaialan1/marketing-writer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186108934,
+            "language": "Python",
+            "last_commit": "2026-03-20T14:17:51Z",
+            "owner": "gushuaialan1",
+            "repo": "marketing-writer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "social-media-skills Plan a social media content strategy blacktwist/social-media-skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187573823,
+            "language": "Shell",
+            "last_commit": "2026-05-01T10:01:29Z",
+            "owner": "blacktwist",
+            "repo": "social-media-skills",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "multi-agent-content Use multi-agent collaboration to write a long essay on \"missing home\" gonelake/multi-agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192685569,
+            "language": "Python",
+            "last_commit": "2026-03-30T07:45:09Z",
+            "owner": "gonelake",
+            "repo": "multi-agent",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "finance-skills Write a viral finance article on recent fund gains digoal/blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40081991,
+            "language": "HTML",
+            "last_commit": "2026-08-24T07:52:07Z",
+            "owner": "digoal",
+            "repo": "blog",
+            "stars": 8560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🛠️ Skill Management",
+          "description": "gptzero-mcp Check whether this text is AI-generated louis030195/gptzero-mcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067523218,
+            "language": "JavaScript",
+            "last_commit": "2025-10-06T20:20:46Z",
+            "owner": "louis030195",
+            "repo": "gptzero-mcp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💻 Code Development",
+          "description": "mcp-builder Build me an MCP Server so Claude can call weather-related services anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💻 Code Development",
+          "description": "goframe-v2 Write a login API in GoFrame v2 gogf/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1143210772,
+            "language": "Go",
+            "last_commit": "2026-06-05T08:11:50Z",
+            "owner": "gogf",
+            "repo": "skills",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Design & Creativity",
+          "description": "shadcn-ui Build a chat room page with the shadcn-ui component library google-labs-code/stitch-skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135847870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T20:20:23Z",
+            "owner": "google-labs-code",
+            "repo": "stitch-skills",
+            "stars": 8167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Design & Creativity",
+          "description": "ui-ux-pro-max Design a personal blog UI in one of 50 styles davila7/claude-code-templates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013480284,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:03:48Z",
+            "owner": "davila7",
+            "repo": "claude-code-templates",
+            "stars": 30367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Design & Creativity",
+          "description": "canvas-design Design a visual poster themed around freedom and butterflies anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎨 Design & Creativity",
+          "description": "frontend-design Design a high-quality promotional page for a Xiaomi phone anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📝 Documentation",
+          "description": "internal-comms Write a team weekly report for the first week of May 2026 anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📝 Documentation",
+          "description": "xlsx/docx/pdf/pptx Make a PPT on domestic indie cosmetics sales for the full year 2025 anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📝 Documentation",
+          "description": "doc-coauthoring Write a technical design doc — structured, produced in three stages anthropics/skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061953414,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:10:55Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 171327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎬 Video Production",
+          "description": "spark-video Make a product ad video — here's the product image, with the selling point in one sentence JohnKeating1997/spark-video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1244194276,
+            "language": "Python",
+            "last_commit": "2026-07-17T07:16:32Z",
+            "owner": "JohnKeating1997",
+            "repo": "spark-video",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🎬 Video Production",
+          "description": "shanyin-screenwriting-master Make a live-action video of the Little Red Riding Hood story Shanyin-ai/shanyin-screenwriting-master",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1196950132,
+            "language": null,
+            "last_commit": "2026-04-01T02:18:00Z",
+            "owner": "Shanyin-ai",
+            "repo": "shanyin-screenwriting-master",
+            "stars": 990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧪 Testing & Quality",
+          "description": "e2e-testing Write e2e tests covering signup → login → browsing → cart → checkout affaan-m/everything-claude-code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1136590548,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T05:00:04Z",
+            "owner": "affaan-m",
+            "repo": "ECC",
+            "stars": 242804
+          }
+        }
+      ],
+      "title": "Aliyun Bailian Curated Skills"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:13:52.870Z",
+    "last_updated": "2026-08-24T14:50:26.175Z",
     "original_repository": "modelstudioai/skills",
     "original_repository_id": 1246690056,
-    "original_repository_sha": "45c14c00a3c0d6b5046a622f0bbc07690c2ff951",
+    "original_repository_sha": "f72dd17319151b6e1bdf0af7325233c4f5212ce7",
     "enhanced_repository": "enhansome/enhansome-skills",
     "enhanced_repository_description": null,
     "title": "Awesome skills with stars"
