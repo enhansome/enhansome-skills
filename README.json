@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T20:28:34Z",
             "owner": "vercel-labs",
             "repo": "skills",
-            "stars": 29652
+            "stars": 29719
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-01T10:01:29Z",
             "owner": "blacktwist",
             "repo": "social-media-skills",
-            "stars": 437
+            "stars": 440
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 40081991,
             "language": "HTML",
-            "last_commit": "2026-08-25T16:31:01Z",
+            "last_commit": "2026-08-26T16:03:17Z",
             "owner": "digoal",
             "repo": "blog",
             "stars": 8564
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-17T20:20:23Z",
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8177
+            "stars": 8189
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 1013480284,
             "language": "Python",
-            "last_commit": "2026-08-25T14:09:08Z",
+            "last_commit": "2026-08-26T14:09:53Z",
             "owner": "davila7",
             "repo": "claude-code-templates",
-            "stars": 30390
+            "stars": 30413
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171520
+            "stars": 171783
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-04-01T02:18:00Z",
             "owner": "Shanyin-ai",
             "repo": "shanyin-screenwriting-master",
-            "stars": 1001
+            "stars": 1010
           }
         },
         {
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T16:55:36Z",
+            "last_commit": "2026-08-25T21:27:27Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243117
+            "stars": 243437
           }
         }
       ],
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:24:22.247Z",
+    "last_updated": "2026-08-26T18:52:21.984Z",
     "original_repository": "modelstudioai/skills",
     "original_repository_id": 1246690056,
     "original_repository_sha": "1a56320d12d495205138ae4932cf6f54dd176936",
