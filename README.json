@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -26,12 +33,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open agent skills tool - npx skills",
+            "homepage": "https://skills.sh",
             "id": 1134543109,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T20:28:34Z",
+            "open_issues": 1145,
             "owner": "vercel-labs",
             "repo": "skills",
-            "stars": 29901
+            "stars": 29909,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -42,12 +54,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring Claude's Skills pattern to any MCP-compatible agent",
+            "homepage": null,
             "id": 1079058877,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-10-20T07:53:28Z",
+            "open_issues": 2,
             "owner": "skills-mcp",
             "repo": "skills-mcp",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -58,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A structured, open-source collection of Claude Skills — 100+ ready-to-use Skills covering AI agents, dev, writing, research, social media, and more.",
+            "homepage": null,
             "id": 1181707412,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-22T14:29:02Z",
+            "open_issues": 1,
             "owner": "GPTtang",
             "repo": "skill-atlas",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -74,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一些好用的skills",
+            "homepage": null,
             "id": 1205637557,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-09T10:16:33Z",
+            "open_issues": 0,
             "owner": "diao10",
             "repo": "skills_repository",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -90,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "少岐·底牌AI 专属 WorkBuddy 技能市场",
+            "homepage": null,
             "id": 1178203209,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-10T19:46:50Z",
+            "open_issues": 0,
             "owner": "ceoniuer",
             "repo": "shaoqi-marketplace",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -106,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI驱动的多媒体内容生产skills集合：document-writer（写作）、illustration-generator（配图）、ppt-generator（PPT风格）、podcast-generator（TTS）、remoti      on-dev（视频制作）、twitter-crawler（推文爬取）、markdown-illustrator（Markdown配图）、comic-generator（漫画生成）、media-downloader（媒体下载）、tts-script-generator（TTS脚本）、md-t      o-pdf（文档转换）、wechat-formatter（微信格式化）、humanizer-zh（中文人性化）、shared-lib（核心API库）",
+            "homepage": null,
             "id": 1150291804,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-05T05:43:17Z",
+            "open_issues": 1,
             "owner": "huangserva",
             "repo": "servasyy_skills",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -122,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using AI for high quality writing",
+            "homepage": null,
             "id": 1160486723,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T12:54:37Z",
+            "open_issues": 0,
             "owner": "donghuixin",
             "repo": "AI-Vibe-Writing-Skills",
-            "stars": 487
+            "stars": 487,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -138,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marketing copywriting assistant skill - A multi-agent pipeline for creating persuasive marketing content",
+            "homepage": null,
             "id": 1186108934,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-20T14:17:51Z",
+            "open_issues": 0,
             "owner": "gushuaialan1",
             "repo": "marketing-writer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -154,12 +201,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent skills for social media content strategy, creation, and analysis across text-first platforms",
+            "homepage": "https://blacktwist.app/",
             "id": 1187573823,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-01T10:01:29Z",
+            "open_issues": 0,
             "owner": "blacktwist",
             "repo": "social-media-skills",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "ai-agents",
+              "ai-writing",
+              "bluesky",
+              "claude",
+              "claude-code",
+              "content-creation",
+              "content-strategy",
+              "cursor",
+              "linkedin",
+              "mcp",
+              "open-source",
+              "prompt-engineering",
+              "social-media",
+              "threads",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -170,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent协同驱动的自主内容生成工具。三个专业AI智能体协同工作，完成从热门话题发现、文章草拟到编辑审阅的端到端流程，产出可直接发布的微信公众号文章。  无需人工干预：一条指令，即可从实时新闻搜索直达精修待发的文章。",
+            "homepage": null,
             "id": 1192685569,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-30T07:45:09Z",
+            "open_issues": 0,
             "owner": "gonelake",
             "repo": "multi-agent",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -186,12 +259,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog",
+            "homepage": "https://github.com/digoal/blog/blob/master/README.md",
             "id": 40081991,
             "language": "HTML",
-            "last_commit": "2026-08-28T12:55:09Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T03:03:47Z",
+            "open_issues": 123,
             "owner": "digoal",
             "repo": "blog",
-            "stars": 8567
+            "stars": 8567,
+            "topics": [
+              "database",
+              "enterprisedb",
+              "gpdb",
+              "greenplum",
+              "hawq",
+              "mongodb",
+              "mysql",
+              "oracle",
+              "pg",
+              "pgsql",
+              "postgres",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -202,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1067523218,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-06T20:20:46Z",
+            "open_issues": 0,
             "owner": "louis030195",
             "repo": "gptzero-mcp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -218,12 +314,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -234,12 +337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoFrame Agent Skills empowering AI to deeply understand GoFrame conventions and best practices, generating high-quality, production-ready code.",
+            "homepage": null,
             "id": 1143210772,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-06-05T08:11:50Z",
+            "open_issues": 2,
             "owner": "gogf",
             "repo": "skills",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "agent",
+              "agent-skills",
+              "ai",
+              "goframe"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -250,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+            "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
             "id": 1135847870,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T20:20:23Z",
+            "open_issues": 16,
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8210
+            "stars": 8209,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -266,12 +384,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for configuring and monitoring Claude Code",
+            "homepage": "https://aitmpl.com",
             "id": 1013480284,
             "language": "Python",
-            "last_commit": "2026-08-28T14:04:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:10:37Z",
+            "open_issues": 237,
             "owner": "davila7",
             "repo": "claude-code-templates",
-            "stars": 30435
+            "stars": 30436,
+            "topics": [
+              "anthropic",
+              "anthropic-claude",
+              "claude",
+              "claude-code"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -282,12 +410,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -298,12 +433,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -314,12 +456,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -330,12 +479,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -346,12 +502,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172283
+            "stars": 172321,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -362,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI video production skill — premise → screenplay → storyboard → render → review → final mp4, with consistent characters / sets / props. Cross-platform (Claude Code, Qwen Code, …).",
+            "homepage": null,
             "id": 1244194276,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-17T07:16:32Z",
+            "open_issues": 1,
             "owner": "JohnKeating1997",
             "repo": "spark-video",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -378,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商业/文艺）、多集剧集。 覆盖从人物设计、结构大纲、场景拆解、到完整剧本写作的全流程。 ",
+            "homepage": null,
             "id": 1196950132,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-01T02:18:00Z",
+            "open_issues": 2,
             "owner": "Shanyin-ai",
             "repo": "shanyin-screenwriting-master",
-            "stars": 1027
+            "stars": 1027,
+            "topics": [
+              "ai-agent",
+              "claude-ai",
+              "claude-skills",
+              "screenwriting",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         },
@@ -394,12 +573,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T00:39:06Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243966
+            "stars": 244005,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
         }
@@ -408,15 +601,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:48:51.827Z",
+    "last_updated": "2026-08-29T05:06:19.712Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated, verified Agent Skills powered by ModelStudio.",
+      "homepage": "https://modelstudioai.github.io/skills/",
       "id": 1246690056,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-27T20:10:20Z",
+      "open_issues": 4,
       "owner": "modelstudioai",
       "repo": "skills",
-      "stars": 54
+      "stars": 55,
+      "topics": [
+        "ai-agent",
+        "ai-skills",
+        "ai-tools",
+        "aliyun",
+        "awesome-list",
+        "bailian",
+        "llm-tools",
+        "mcp-skills",
+        "modelstudio",
+        "prompt-engineering",
+        "qwen",
+        "skill-marketplace"
+      ]
     },
     "original_repository_sha": "93ef162700ed16ef83b3c3f64db31efcffcd6505",
     "enhanced_repository": "enhansome/enhansome-skills",
