@@ -16,10 +16,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -39,10 +39,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-18T20:28:34Z",
-            "open_issues": 1159,
+            "open_issues": 1166,
             "owner": "vercel-labs",
             "repo": "skills",
-            "stars": 30021,
+            "stars": 30115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
@@ -168,7 +168,7 @@
             "open_issues": 0,
             "owner": "donghuixin",
             "repo": "AI-Vibe-Writing-Skills",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
@@ -210,7 +210,7 @@
             "open_issues": 0,
             "owner": "blacktwist",
             "repo": "social-media-skills",
-            "stars": 454,
+            "stars": 458,
             "topics": [
               "ai-agents",
               "ai-writing",
@@ -264,11 +264,11 @@
             "id": 40081991,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-30T12:55:25Z",
+            "last_commit": "2026-08-31T04:56:56Z",
             "open_issues": 123,
             "owner": "digoal",
             "repo": "blog",
-            "stars": 8567,
+            "stars": 8568,
             "topics": [
               "database",
               "enterprisedb",
@@ -320,10 +320,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -372,7 +372,7 @@
             "open_issues": 16,
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8223,
+            "stars": 8225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:51.827Z"
@@ -389,11 +389,11 @@
             "id": 1013480284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T19:24:54Z",
-            "open_issues": 233,
+            "last_commit": "2026-08-31T14:00:01Z",
+            "open_issues": 235,
             "owner": "davila7",
             "repo": "claude-code-templates",
-            "stars": 30455,
+            "stars": 30470,
             "topics": [
               "anthropic",
               "anthropic-claude",
@@ -416,10 +416,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -439,10 +439,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -462,10 +462,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -485,10 +485,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -508,10 +508,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
-            "open_issues": 1190,
+            "open_issues": 1194,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172628,
+            "stars": 172799,
             "topics": [
               "agent-skills"
             ]
@@ -555,7 +555,7 @@
             "open_issues": 2,
             "owner": "Shanyin-ai",
             "repo": "shanyin-screenwriting-master",
-            "stars": 1036,
+            "stars": 1042,
             "topics": [
               "ai-agent",
               "claude-ai",
@@ -578,11 +578,11 @@
             "id": 1136590548,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T19:20:35Z",
-            "open_issues": 121,
+            "last_commit": "2026-08-31T19:16:16Z",
+            "open_issues": 122,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 244619,
+            "stars": 245181,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -601,7 +601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:35:19.958Z",
+    "last_updated": "2026-08-31T21:42:24.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated, verified Agent Skills powered by ModelStudio.",
@@ -609,7 +609,7 @@
       "id": 1246690056,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-08-29T20:10:44Z",
+      "last_commit": "2026-08-30T20:11:08Z",
       "open_issues": 4,
       "owner": "modelstudioai",
       "repo": "skills",
@@ -629,7 +629,7 @@
         "skill-marketplace"
       ]
     },
-    "original_repository_sha": "67665630eed65b01e0ac232daac8a3ac02fcc390",
+    "original_repository_sha": "30e526c00e42cbcf36ec9521db802a2179226ab7",
     "enhanced_repository": "enhansome/enhansome-skills",
     "enhanced_repository_description": null,
     "title": "Awesome skills with stars"
